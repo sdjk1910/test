@@ -22,7 +22,7 @@ def main():
     # 페이지 설정 (Streamlit 상단 바 구성)
     st.set_page_config(page_title="신재경", page_icon="🦚")  # 웹 페이지 제목과 아이콘 설정
     st.image('energy.png')  # 상단에 이미지를 표시
-    st.title("_:blue[에너지 학습 도우미]_ 🏫")  # 제목 표시 (에너지 학습 도우미)
+    st.title("_:blue[산염기 학습 도우미]_ 🏫")  # 제목 표시 (에너지 학습 도우미)
     st.header("😶주의! 이 챗봇은 참고용으로 사용하세요!", divider='rainbow')  # 주의사항 표시
 
     # 세션 상태 초기화
